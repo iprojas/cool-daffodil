@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: heroblock
-    title: Hero Section
-    section_id: hero
+    title: Voto Digital
+    section_id: intro
     component: hero_block.html
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
@@ -100,3 +100,4 @@ menus:
     weight: 1
 layout: home
 ---
+
