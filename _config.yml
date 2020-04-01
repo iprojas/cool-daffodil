@@ -1,4 +1,4 @@
-title: Urna Digital – Toma decisiones de forma fácil y confiable
+title: Toma decisiones de forma fácil y confiable
 baseurl: /
 permalink: '/:title/'
 palette: blue
@@ -11,6 +11,10 @@ palettes:
     sass:
       accent1: '#12db5d'
       accent2: '#11998e'
+  custom:
+    sass:
+      accent1: '#009688'
+      accent2: '#000428'
   navy:
     sass:
       accent1: '#004e92'
