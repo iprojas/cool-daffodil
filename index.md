@@ -65,7 +65,7 @@ sections:
 
 
       [Saber más sobre nuestras prácticas de seguridad.](#)
-    image: ''
+    image: /images/img-01.webp
     actions:
       - label: Probar el Demo
         url: /docs/getting-started/index.html
