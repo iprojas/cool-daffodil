@@ -1,6 +1,6 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; Voto Digital.<br> Creado con ☕en Santigo 2020. '
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: ''
+    url: ''
     new_window: true
 has_social: true
