@@ -1,8 +1,8 @@
 ---
-title: Welcome to Libris
+title: Bienvenido a Urna Digital
 menus:
   main:
-    title: Docs
+    title: Documentación
     weight: 2
 layout: docs
 ---
@@ -15,6 +15,6 @@ Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien,
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
 
-[Morbi ac vulputate enim](https://stackbit.com)
+[Morbi ac vulputate enim](https://urna.digital)
 
 Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.

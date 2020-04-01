@@ -96,7 +96,7 @@ sections:
         url: /docs/getting-started/installation.html
 menus:
   main:
-    title: Home
+    title: Inicio
     weight: 1
 layout: home
 ---

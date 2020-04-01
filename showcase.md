@@ -21,7 +21,7 @@ items:
     url: 'https://themes.stackbit.com/demos/ampersand/'
 menus:
   layouts:
-    title: Showcase
+    title: Ejemplo
     weight: 2
 layout: showcase
 ---
