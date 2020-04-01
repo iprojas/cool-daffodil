@@ -1,7 +1,7 @@
 title: Urna Digital – Toma decisiones de forma fácil y confiable
 baseurl: /
 permalink: '/:title/'
-palette: green
+palette: blue
 palettes:
   blue:
     sass:
