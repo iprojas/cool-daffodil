@@ -6,7 +6,7 @@ sections:
     section_id: intro
     component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
+      Esta seccion puede ser. The recommended length is
       one to three sentences, but can be changed as you prefer.
     image: images/5.jpg
     actions:
