@@ -1,57 +1,75 @@
 ---
-title: Home
+title: Urna Digital
 sections:
   - type: heroblock
-    title: Voto Digital
+    title: ¿Necesitas crear una votación segura en línea?
     section_id: intro
     component: hero_block.html
     content: >-
-      Esta seccion puede ser. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Toma de decisiones en un sistema moderno, seguro y efectivo. Nuestra
+      plataforma de voto digital supera el conteo manual, manteniendo la
+      integridad de tus votos.
     image: images/5.jpg
     actions:
-      - label: Get Started
+      - label: Descubre cómo
         url: docs/index.html
   - type: featuresblock
     section_id: features
     component: features_block.html
     featureslist:
-      - title: Documentation
+      - title: Voto digital basado en tus necesidades
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Ofrecemos desde software para la verificación de la identidad online
+          hasta la administración completa y efectiva de votaciones de alta
+          complejidad. También generamos soluciones de voto digital orientadas a
+          tus necesidades.
         actions:
           - label: Get Started
             url: docs/index.html
-      - title: Blog
+      - title: Una solución completa
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          No te preocupes por votos repetidos u otras formas de manipulación
+          electoral. Nuestro sistema valida a los usuarios en tiempo real,
+          usando los datos del Registro Civil. Obtén los resultados
+          instantáneamente.  Estadísticas de votación detalladas y accesibles.
         actions:
-          - label: View Posts
+          - label: Conoce nuestra plataforma
             url: blog/index.html
-      - title: Style Guides
+      - title: Comodidad los participantes
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Tus votantes merecen un sitio de votación confiable, fácil de utilizar
+          y accesible desde cualquier equipo. Cada voto es único. Nuestras
+          opciones de personalización incluyen integración técnica, consultoría
+          electoral, servicios de notificación electoral, y más.
         actions:
           - label: Learn More
             url: /style-guide.html
   - type: contentblock
-    title: A Section With An Image
+    title: Medidas sólidas y confiables de seguridad
     section_id: text-img
     component: content_block.html
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    image: images/10.jpg
+      Nuestras medidas de seguridad para voto digital protegen tu voto, tu
+      información y tu organización de cualquier riesgo.
+
+
+      * Protección de información organizacional.Nuestras medidas de
+      ciberseguridad protegen tu información sensible.
+
+      * Elimina el riesgo de voto doble y fraude electoral.Votaciones cerradas
+      permiten la toma confiable y segura de decisiones.
+
+      * Prueba la integridad de tu voto.Nuestras sólidas herramientas de
+      auditoría te permiten demostrar un proceso responsable y confiable de
+      votación.
+
+
+      [Saber más sobre nuestras prácticas de seguridad.](#)
+    image: ''
     actions:
-      - label: View Demo
+      - label: Probar el Demo
         url: /docs/getting-started/index.html
-      - label: Get Started
+      - label: Empezemos!
         url: /docs/getting-started/index.html
   - type: featuresblock
     title: Sample Layouts
@@ -96,8 +114,7 @@ sections:
         url: /docs/getting-started/installation.html
 menus:
   main:
-    title: Inicio
+    title: Home
     weight: 1
 layout: home
 ---
-
